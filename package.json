@@ -1,12 +1,42 @@
 {
   "name": "@markusrempfer/node-package",
   "version": "1.2.0",
-  "description": "NPM node-package publishing tutorial.",
+  "description": "Starter module for testing github and npm deployment.",
+  "homepage": "https://github.com/markusrempfer/node-package",
+  "author": {
+    "name": "Markus Rempfer",
+    "email": "dev@qumundo.com",
+    "url": "https://www.qumundo.com"
+  },
+  "license": "COPYRIGHT © 2024, Markus Rempfer. All rights reserved.",
+  "licenses": [
+    {
+      "type": "Copyright © 2024, Markus Rempfer. All rights reserved.",
+      "url": "https://github.com/markusrempfer/node-package/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markusrempfer/node-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markusrempfer/node-package/issues"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "files": [
     "index.js"
+  ],
+  "keywords": [
+    "starter",
+    "development",
+    "modul",
+    "testing",
+    "deployment",
+    "npm",
+    "github",
+    "workflow"
   ]
 }
