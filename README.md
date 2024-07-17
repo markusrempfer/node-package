@@ -1,2 +1,2 @@
 # node-package
-NPM node-package publishing tutorial.
+Starter module for testing github and npm deployment.
