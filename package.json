@@ -1,6 +1,6 @@
 {
   "name": "@markusrempfer/node-package",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Starter module for testing github and npm deployment.",
   "homepage": "https://github.com/markusrempfer/node-package",
   "author": {
